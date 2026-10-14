@@ -39,7 +39,7 @@
 
 | Projeto | O que é |
 |---|---|
-| [pr-weekly](https://github.com/LorenzoCostap/pr-weekly) | Workflows que mandam por e-mail o resumo semanal dos meus PRs |
+| [steam-price-tracker](https://github.com/LorenzoCostap/steam-price-tracker) | Dashboard em Java e Spring Boot que acompanha preços de jogos da Steam, com histórico e gráficos |
 | [maquininha-mvp](https://github.com/LorenzoCostap/maquininha-mvp) | Simulação de POS e adquirente com FastAPI e SQLite |
 | [sentus_manager](https://github.com/LorenzoCostap/sentus_manager) | App em Flutter para gestão de pequenos negócios: clientes, produtos, estoque e pedidos |
 
